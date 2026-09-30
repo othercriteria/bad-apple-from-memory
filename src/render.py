@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyright (c) 2026 Daniel Klein
 """A memory-only silhouette music film. All geometry and sound are generated here."""
 from __future__ import annotations
 import argparse

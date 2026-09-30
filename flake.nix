@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
 {
   description = "Bad Apple, reconstructed from memory: procedural silhouettes and synthesis";
   inputs.nixpkgs.url = "github:NixOS/nixpkgs/nixos-26.05";

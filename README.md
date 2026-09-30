@@ -6,7 +6,7 @@ This is an interpretation of remembered imagery and music, not a frame-accurate 
 
 ## Play
 
-Download `bad-apple-from-memory.mp4` from the private repository's **Releases**, or open `output/bad-apple-from-memory.mp4` after rendering. The file is 960 × 720 at 30 fps, H.264 with `yuv420p` pixels and stereo AAC audio, with the MP4 index at the front for streaming. `output/storyboard.jpg` provides a contact sheet of all 31 shots.
+Download `bad-apple-from-memory.mp4` from [Releases](https://github.com/othercriteria/bad-apple-from-memory/releases), or open `output/bad-apple-from-memory.mp4` after rendering. The file is 960 × 720 at 30 fps, H.264 with `yuv420p` pixels and stereo AAC audio, with the MP4 index at the front for streaming. `output/storyboard.jpg` provides a contact sheet of all 31 shots.
 
 ## Reproduce on NixOS
 
@@ -42,3 +42,9 @@ The renderer also saves an uncompressed stereo WAV and a JSON render report besi
 ## Attribution
 
 A fan reconstruction of **Bad Apple!!**, the Touhou song and its well-known silhouette animation. The underlying composition, characters, and original video belong to their respective creators. No original media is included. This project records a memory exercise, including its inaccuracies.
+
+## License
+
+The project's original source code, build configuration, and documentation are licensed under the **GNU General Public License, version 3 or (at your option) any later version** (`GPL-3.0-or-later`). See [LICENSE](LICENSE) for the full terms. This is a copyleft license: when distributing modified versions of the covered software, preserve the applicable GPL terms and provide the corresponding source as required by the license.
+
+Copyright © 2026 Daniel Klein. This license grants only rights the project contributors can grant. It does not license the underlying Bad Apple!! composition, Touhou characters, or original silhouette video. Dependencies retain their own licenses. Generated video, audio, and thumbnail assets are not granted a separate media license by this notice; their inclusion in a public release is not a claim that the underlying third-party material is freely licensed.
